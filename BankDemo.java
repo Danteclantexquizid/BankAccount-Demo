@@ -1,3 +1,6 @@
+//Danson Njenga Wambui
+//ADM:CT101/G/20010/23
+
 class BankAccount {
     private double balance; // Private variable to prevent direct access
 
